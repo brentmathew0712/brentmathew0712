@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, I'm Brent Mathew Pagaspas 👋
 
-<!--
-**brentmathew0712/brentmathew0712** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from the Philippines.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- Python
+- Java
+- SQL
+- Git & GitHub
+
+---
+
+## Projects
+
+### Student Feedback Sentiment Analyzer
+Python program that analyzes student feedback using NLP.
+
+---
+
+### Graph Algorithm Visualizer
+Visualization of MST and TSP algorithms using Python.
+
+---
+
+### Object Detection System
+YOLOv5-based object detection with GUI.
+
+---
+
+## Contact
+- GitHub: https://github.com/brentmathew0712
+- Email: qbmfpagaspas@tip.edu.ph
