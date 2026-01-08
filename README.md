@@ -1,6 +1,6 @@
 # Hi, I'm Brent Mathew Pagaspas 👋
 
-Computer Science student from the Philippines.
+Computer Science student from Technological Institute of the Philippines - Quezon City.
 
 ---
 
